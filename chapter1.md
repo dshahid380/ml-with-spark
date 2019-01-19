@@ -23,6 +23,7 @@ This is an example exercise.
 
 `@pre_exercise_code`
 ```{python}
+import pandas as pd
 
 ```
 
